@@ -4,4 +4,4 @@ This is a simple application with which you can find the latest price of Bitcoin
 
 Technologies: Javascript, CoinDesk API, AJAX, Bootstrap, DOM Mainpulation
 
-Link :
+Link : https://bitcoinprice.netlify.com
